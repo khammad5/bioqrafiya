@@ -1,0 +1,5 @@
+ad: Xammed
+soyad: Xankisizade
+yas: 30
+tehsil: ali
+nomre: 055
